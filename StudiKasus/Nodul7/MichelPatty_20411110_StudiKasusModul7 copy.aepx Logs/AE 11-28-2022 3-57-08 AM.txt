@@ -1,0 +1,17 @@
+Adobe After Effects v16.0.1 Windows 64 render log for project “MichelPatty_20411110_StudiKasusModul7 copy.aepx”
+
+Rendering started on 11/28/2022 at 3:57:08 AM
+
+  11/28/2022 3:57:08 AM: Starting composition “Tugas AE”.
+
+  Output To: D:\Michel Kampus\Semester 5\Multimedia\TB\StudiKasus\Nodul7\Tugas AE\Tugas AE_[#####].psd    11/28/2022 3:58:10 AM: Finished composition “Tugas AE”.
+
+
+  11/28/2022 3:58:10 AM: Starting composition “Tugas AE”.
+
+  Output To: D:\Michel Kampus\Semester 5\Multimedia\TB\StudiKasus\Nodul7\Tugas AE_1.avi      Render stopped by user.    11/28/2022 3:58:17 AM: Finished composition “Tugas AE”.
+
+
+  Total Time Elapsed: 1 Min, 7 Sec
+Log closed on 11/28/2022 at 3:58:17 AM
+
